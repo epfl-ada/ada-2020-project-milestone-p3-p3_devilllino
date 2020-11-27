@@ -18,7 +18,15 @@ Moreover if the decision tree works as we expect we want to be able to compare t
 
 5.	Methods:
 
-**Explain decision trees**
+Decision Tree Analysis on the state of WA
+
+Performance comparison with SGDclassifier, logistic regression and random forest
+
+Grid search cross validation
+
+Reproduction of optimized tree on different states
+
+Missing data ratio
 
 6.	Proposed timeline:
 
