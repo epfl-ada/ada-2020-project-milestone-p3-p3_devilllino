@@ -18,15 +18,9 @@ Moreover if the decision tree works as we expect we want to be able to compare t
 
 5.	Methods:
 
-Decision Tree Analysis on the state of WA
+We will perform a Decision Tree Analysis on the stops of the washington state police, with the help of the sklearn library. We will then compare the accuracy, precision and recall between the different models with the SGDclassifier, logistic regression and random forest. We also perform an optimization based on validation set precision (Grid search cross validation).
 
-Performance comparison with SGDclassifier, logistic regression and random forest
-
-Grid search cross validation
-
-Reproduction of optimized tree on different states
-
-Missing data ratio
+ We will also reproduce our optimized tree on different states and calculate missing data ratios.
 
 6.	Proposed timeline:
 
