@@ -27,8 +27,11 @@ Moreover if the decision tree works as we expect we want to be able to compare t
 7.	Organization within the team:
 
 p4.1 Finish the first Tree
+
 p4.2 Replicate the methods for other states and compare results
+
 p4.3 Visualization of everything and Conclusions
+
 p4.4 Replicate paper
 
 8. Questions for TAs (optional):
