@@ -9,11 +9,9 @@ The idea of the original paper is to demonstrate (if possible) that there is a r
 
 3.	Research Questions:
 
-A list of research questions you would like to address during the project.
-
 4.	Proposed dataset:
 
-List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
+The original paper gives a link to the source of their data the Stanford Open Policing project :https://openpolicing.stanford.edu/data/. Sevrall million of stops are categorized there but as we said we decided to limit ourselves to only one state, which we thought needed to be heavily populated and where state patrols had recorded  a lot of stops owith information on the racial appearence of the subjects, the time of the stop, the subject age, the subjet sex and if a search had been conducted. Our choice was therefore the state of washington and the 11 million state patrol stopps.
 
 5.	Methods:
 
@@ -21,10 +19,8 @@ List the dataset(s) you want to use, and some ideas on how you expect to get, ma
 
 7.	Organization within the team:
 
-A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
-
 8. Questions for TAs (optional):
 
-Add here any questions you have for us related to the proposed project.
+
 
 
